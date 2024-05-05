@@ -11,6 +11,21 @@
 
 ## 2. Project Summary
 
+
+
 ## 3. Hardware & Software Requirements
 
 ## 4. Project Photos & Screenshots
+
+![img1](Pics/frontview.jpg)
+
+![img2](Pics/sideview2.jpg)
+
+![img3](Pics/sideview1.jpg)
+
+![img4](Pics/PCB.jpg)
+
+![img5](Pics/pcbincase.jpg)
+
+![img6](Pics/casework.jpg)
+
