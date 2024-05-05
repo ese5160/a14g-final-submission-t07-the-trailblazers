@@ -62,6 +62,7 @@ The product shall employ the COM-11289 wearable heating pad, designed to operate
 ### SRS 01 - Load Detection:
 
 The product's actuators shall engage exclusively when the presence of the pet on the pet bed is confirmed through acquired weight data. 
+
 ### SRS 02 - Stress Detection:
 
 The product shall identify signs of stress in the pet by collecting data from the 6-axis Inertial Measurement Unit (IMU). It combines 3-axis accelerometer and 3-axis gyroscope and shall have a data rate of 6.66KHz.
