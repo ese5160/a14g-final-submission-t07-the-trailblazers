@@ -59,6 +59,8 @@ The product shall employ the COM-11289 wearable heating pad, designed to operate
 
 ## 3.2 Software Requirements Specification (SRS)
 
+The software aspect of the project is a well developed UI for the user who shall be the pet owner to view statistics related to his pet like the ambient temperature, the weight and anxiety.
+
 ### SRS 01 - Load Detection:
 
 The product's actuators shall engage exclusively when the presence of the pet on the pet bed is confirmed through acquired weight data. 
@@ -78,7 +80,11 @@ The product shall feature a graphical interface for the user (pet's owner) to vi
 
 ### SRS 05 - Temperature Monitoring:
 
-The system shall acquire temperature data from the environment around the pet bed using a temperature sensor. If the temperature exceeds 75 degrees Fahrenheit or falls below 65 degrees Fahrenheit, the fan or the heating pad shall turn on.
+The system shall acquire temperature data from the environment around the pet bed using a temperature sensor. If the temperature exceeds 35 degrees Celcius or falls below 20 degrees Celcius, the fan or the heating pad shall turn on respectively.
+
+## Few Hurdles ...
+
+
 
 ## 4. Project Photos & Screenshots
 
