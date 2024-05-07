@@ -104,10 +104,6 @@ The product shall feature a graphical interface for the user (pet's owner) to vi
 
 The system shall acquire temperature data from the environment around the pet bed using a temperature sensor. If the temperature exceeds 35 degrees Celcius or falls below 20 degrees Celcius, the fan or the heating pad shall turn on respectively.
 
-## Few Hurdles ...
-
-
-
 ## 4. Project Photos & Screenshots
 
 ![img1](Pics/frontview.jpg)
