@@ -12,7 +12,7 @@
 
 
 ## 2. Project Summary
-## Device Description: 
+# Device Description: 
 
 Pets play a crucial role providing companionship to offering emotional support. Over the last three decades, pet ownership has experienced a notable increase. Reflecting the growing trend of pet humanization, the global market size for pet technology that aims to enhance the quality of life of our furry best friends is expected to hit $10.7 billion by 2026.
 
