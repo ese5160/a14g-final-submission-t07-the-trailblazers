@@ -142,6 +142,15 @@ Thermal Camera Image:
 
 <img src="Pics/Thermal_cam.jpeg" width=600, height=600>
 
+Altium 2D Version:
+
+<img src="Pics/2d.png" width=600, height=600>
+
+Altium 3D Version:
+
+<img src="Pics/3d.png" width=600, height=600>
+
+
 Node-RED:
 
 <img src="Pics/backend.png" width=700, height=600>
