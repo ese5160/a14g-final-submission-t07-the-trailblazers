@@ -159,7 +159,9 @@ UI:
 
 <img src="Pics/UI.png" width=700, height=600>
 
+Block Diagram:
 
+<img src="Pics/blockdiagram.png" width=700, height=600>
 
 
 
