@@ -122,15 +122,15 @@ The system shall acquire temperature data from the environment around the pet be
 
 ## 4. Project Photos & Screenshots
 
-![img1](Pics/frontview.jpg)
+
 <img src= "Pics/frontview.jpg" width=600, height=600>
-![img2](Pics/sideview2.jpg)
+<img src= "Pics/sideview2.jpg" width=600, height=600>
+<img src= "Pics/sideview1.jpg" width=600, height=600>
+<img src= "Pics/PCB.jpg" width=600, height=600>
+<img src= "Pics/pcbincase.jpg" width=600, height=600>
+<img src= "Pics/casework.jpg" width=600, height=600>
 
-![img3](Pics/sideview1.jpg)
 
-![img4](Pics/PCB.jpg)
 
-![img5](Pics/pcbincase.jpg)
 
-![img6](Pics/casework.jpg)
 
