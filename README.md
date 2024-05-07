@@ -144,11 +144,11 @@ Thermal Camera Image:
 
 Node-RED:
 
-<img src="Pics/backend.png" width=600, height=600>
+<img src="Pics/backend.png" width=700, height=600>
 
 UI:
 
-<img src="Pics/UI.png" width=600, height=600>
+<img src="Pics/UI.png" width=700, height=600>
 
 
 
