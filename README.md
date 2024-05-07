@@ -40,8 +40,11 @@ As previously mentioned, the device incorporates three main functions: detecting
 4. We learnt how to design and deploy dashboards and establish communication between nodes and embedded systems through Node-RED.
 
 #### Next Steps:
-
-
+1. Creating a custom PCB for pet collar and seamelessly integrating in PetPal.
+2. We believe anxiety detection is the key distinguishing feature of our product. Presently, we rely solely on IMU data to gauge the dog's anxiety levels. However, in the future, we plan to incorporate a heart sensor to complement the IMU data. This integration will enable us to activate a pheromone spray based on both the heart activity and IMU data.
+3. Enhancing the user interface and dashboard
+4. Transitioning from the present prototype stage to the next phase, involves considering the appropriate packaging of our product and securing additional funds for further product development.
+ 
 #### Takeaways:
 
 
