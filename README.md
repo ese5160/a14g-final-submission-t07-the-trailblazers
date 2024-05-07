@@ -29,8 +29,9 @@ As previously mentioned, the device incorporates three main functions: detecting
 
 #### Challenges:
 1. Designing our PCB seemed challenging, particularly as we adopted a dog bone shape while adhering to the project's dimensional requirements.
-2. 
-
+2. After receing the manufactured board, we found out that our buck converter was not working due to incorrect resistor values in the voltage divider network. We had to desolder the components and resolder in correct configuration.
+3. The FTDI circuitry on all three boards failed to function, and after thorough debugging, we determined it was a manufacturing error. To address this issue, we utilized a UART to TTL connector.
+4. Given that we had an off-the-shelf module, i.e. IMU data from the pet collar, developing firmware for both collar aand pet bed proved to be a challenging task.
 
 #### Prototype Learnings:
 
