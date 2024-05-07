@@ -34,7 +34,10 @@ As previously mentioned, the device incorporates three main functions: detecting
 4. Given that we had an off-the-shelf module, i.e. IMU data from the pet collar, developing firmware for both collar aand pet bed proved to be a challenging task.
 
 #### Prototype Learnings:
-
+1. Thoroughly reviewing documentation for various sensors, boards, and actuators, with a focus on critical details essential for PCB layout design.
+2. Utilizing FreeRTOS API to optimize embedded systems programming efficiency.
+3. Design of schematic capture for hardware implementation and printed circuit boards in Altium.
+4. We were intoduced to Node-RED where we learnt how to design and deploy dashboards and establish communication between nodes and embedded systems.
 
 #### Next Steps:
 
