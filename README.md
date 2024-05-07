@@ -18,7 +18,7 @@ Pets play a crucial role, from  providing companionship to offering emotional su
 Introducing PetPal – one such revolutionary solution designed to prioritize the overall well-being of your beloved canine companion!
 Picture this: a cutting-edge, smart pet bed that provides a comfy spot for your pooch. Say farewell to costly pet anxiety products and the aftermath of property damages. PetPal comprises of a pet bed and a sub-module that we are referring to as pet collar. The collar utilizes an accelerometer to track the pet’s movements and is connected to the cloud. This allows the user to discern if their pet is trembling anxiously, darting around or engaged in play. The innovative bed on the other hand helps the user to keep track of pet’s weight and offers climate control to create a personalized sanctuary. But that's not all – we've gone the extra mile! The bed is also outfitted with a calming pheromone spray to alleviate their anxiety. As a pet owner, you can effortlessly monitor your pet's activity and engage them directly from your device. Stay connected to your pet's emotional world and enjoy peace of mind, no matter where you are.
 
-####Inspiration:
+#### Inspiration:
 
 
 
