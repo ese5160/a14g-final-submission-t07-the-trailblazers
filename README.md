@@ -65,7 +65,7 @@ Altium 365 PCB Link: [Here.](https://upenn-eselabs.365.altium.com/designs/6ACC74
 
 ### HRS 01 - Product Microcontroller:
 
-The product shall utilize the SAMW25 module, incorporating the ATWINC1500 low-power Wi-Fi 2.4 GHz for wireless communication and the SAMD21W module for processing, powered by a 3.3V power supply.
+The product shall utilize the SAMW25 module, incorporating the ATWINC1500 low-power Wi-Fi 2.4 GHz for wireless communication and the SAMD21 module for processing, powered by a 3.3V power supply.
 
 ### HRS 02 - Power Source:
 
