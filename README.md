@@ -49,6 +49,13 @@ As previously mentioned, the device incorporates three main functions: detecting
 
 
 #### Project Links:
+Node-RED link: [Here.](http://172.172.34.140:1880/#flow/34c5c4e06c53bbe4)
+
+User-interface: [Here.](http://172.172.34.140:1880/ui/#!/0?socketid=ovA5--m2NUMTkBTpAACv)
+
+A12G Repository: [Here.](https://github.com/ese5160/a11g-board-bringup-t07-the-trailblazers.git)
+
+Altium 365 PCB Link: [Here.](https://upenn-eselabs.365.altium.com/designs/6ACC74F3-2C68-4A00-A48B-9BF6BBB50620)
 
 
 ## 3. Hardware & Software Requirements
