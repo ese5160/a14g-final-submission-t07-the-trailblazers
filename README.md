@@ -142,6 +142,13 @@ Thermal Camera Image:
 
 <img src="Pics/Thermal_cam.jpeg" width=600, height=600>
 
+Node-RED:
+
+<img src="Pics/backend.png" width=600, height=600>
+
+UI:
+
+<img src="Pics/UI.png" width=600, height=600>
 
 
 
