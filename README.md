@@ -126,9 +126,9 @@ The system shall acquire temperature data from the environment around the pet be
 <img src= "Pics/frontview.jpg" width=600, height=600>
 <img src= "Pics/sideview2.jpg" width=600, height=600>
 <img src= "Pics/sideview1.jpg" width=600, height=600>
-<img src= "Pics/PCB.jpg" width=600, height=600>
 <img src= "Pics/pcbincase.jpg" width=600, height=600>
 <img src= "Pics/casework.jpg" width=600, height=600>
+<img src= "Pics/PCB.jpg" width=600, height=900>
 
 
 
