@@ -138,6 +138,11 @@ PCB:
 <img src= "Pics/PCB.jpg" width=600, height=700>
 <img src= "Pics/PCB_rear_view.jpg" width=600, height=700>
 
+Thermal Camera Image:
+
+<img src="Pics/Thermal_cam.jpeg" width=600, height=600>
+
+
 
 
 
