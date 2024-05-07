@@ -4,20 +4,42 @@
     * Team Number: 07
     * Team Name: Trailblazers
     * Team Members: Amulya Ganti, Rohan Nagesh
-    * Github Repository URL: 
-    * Description of test hardware: (development boards, sensors, actuators, laptop + OS, etc) : ATSamW25 Xplained Pro, SHTC3, NAU7802, LSM6DSO, SG90, DC Fan, DC Heating pad, ESP32 Feather V2
+    * Github Repository URL: https://github.com/ese5160/a14g-final-submission-t07-the-trailblazers.git
+    * Description of test hardware: ATSamW25 Xplained Pro, SHTC3, NAU7802, LSM6DSO, SG90, DC Fan, DC Heating pad, ESP32 Feather V2
 
 ## 1. Video Presentation
 
 
 
 ## 2. Project Summary
-
+Device Description: 
 Pets play a crucial role providing companionship to offering emotional support. Over the last three decades, pet ownership has experienced a notable increase. Reflecting the growing trend of pet humanization, the global market size for pet technology that aims to enhance the quality of life of our furry best friends is expected to hit $10.7 billion by 2026.
 
 Introducing PetPal – one such revolutionary solution designed to prioritize the overall well-being of your beloved canine companion!
 
 Picture this: a cutting-edge, smart pet bed that provides a comfy spot for your pooch. Say farewell to costly pet anxiety products and the aftermath of property damages. PetPal comprises of a pet bed and a sub-module that we are referring to as pet collar. The collar utilizes an accelerometer to track the pet’s movements and is connected to the cloud. This allows the user to discern if their pet is trembling anxiously, darting around or engaged in play. The innovative bed on the other hand helps the user to keep track of pet’s weight and offers climate control to create a personalized sanctuary. But that's not all – we've gone the extra mile! The bed is also outfitted with a calming pheromone spray to alleviate their anxiety. As a pet owner, you can effortlessly monitor your pet's activity and engage them directly from your device. Stay connected to your pet's emotional world and enjoy peace of mind, no matter where you are.
+
+Inspiration:
+
+
+
+Device Functionality:
+
+
+
+Challenges:
+
+
+Prototype Learnings:
+
+
+Next Steps:
+
+
+Takeaways:
+
+
+Project Links:
 
 
 ## 3. Hardware & Software Requirements
