@@ -28,6 +28,8 @@ As previously mentioned, the device incorporates three main functions: detecting
 ![blockdiagram](Pics/blockdiagram.png)
 
 #### Challenges:
+1. Designing our PCB seemed challenging, particularly as we adopted a dog bone shape while adhering to the project's dimensional requirements.
+2. 
 
 
 #### Prototype Learnings:
