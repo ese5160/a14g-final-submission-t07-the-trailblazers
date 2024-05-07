@@ -36,8 +36,8 @@ As previously mentioned, the device incorporates three main functions: detecting
 #### Prototype Learnings:
 1. Thoroughly reviewing documentation for various sensors, boards, and actuators, with a focus on critical details essential for PCB layout design.
 2. Utilizing FreeRTOS API to optimize embedded systems programming efficiency.
-3. Design of schematic capture for hardware implementation and printed circuit boards in Altium.
-4. We were intoduced to Node-RED where we learnt how to design and deploy dashboards and establish communication between nodes and embedded systems.
+3. Design of printed circuit boards in Altium and schematic capture for hardware implementation.
+4. We learnt how to design and deploy dashboards and establish communication between nodes and embedded systems through Node-RED.
 
 #### Next Steps:
 
