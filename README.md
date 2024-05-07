@@ -136,6 +136,7 @@ PCB CASE:
 PCB:
 
 <img src= "Pics/PCB.jpg" width=600, height=700>
+<img src= "Pics/PCB_rear_view.jpg" width=600, height=700>
 
 
 
