@@ -74,6 +74,8 @@ Altium 365 PCB Link: [Here.](https://upenn-eselabs.365.altium.com/designs/6ACC74
 
 ## 3.1 Hardware Requirements Specification (HRS):
 
+The user is the pet. 
+
 ### HRS 01 - Product Microcontroller:
 
 The product shall utilize the SAMW25 module, incorporating the ATWINC1500 low-power Wi-Fi 2.4 GHz for wireless communication and the SAMD21 module for processing, powered by a 3.3V power supply.
