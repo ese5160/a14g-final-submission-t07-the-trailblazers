@@ -137,44 +137,43 @@ The system shall acquire temperature data from the environment around the pet be
 ## 4. Project Photos & Screenshots
 Prototype:
 
-<img src= "frontview.jpg" width=600, height=600>
-<img src= "sideview2.jpg" width=600, height=600>
-<img src= "sideview1.jpg" width=600, height=600>
+![img](frontview.jpg)
+![img1](sideview2.jpg)
+![img2](sideview1.jpg)
 
 PCB CASE: 
 
-<img src= "pcbincase.jpg" width=600, height=600>
-<img src= "casework.jpg" width=600, height=600>
+![img3](pcbincase.jpg)
+![img4](casework.jpg)
 
 PCB:
 
-<img src= "PCB.jpg" width=600, height=700>
-<img src= "PCB_rear_view.jpg" width=600, height=700>
+![img5](PCB.jpg)
+![img6](PCB_rear_view.jpg)
 
 Thermal Camera Image:
 
-<img src="Thermal_cam.jpeg" width=600, height=600>
+![img7](Thermal_cam.jpeg)
 
 Altium 2D Version:
-
-<img src="2d.png" width=700, height=600>
+![img8](2d.png)
 
 Altium 3D Version:
 
-<img src="3d.png" width=700, height=600>
+![img9](3d.png)
 
 
 Node-RED:
 
-<img src="backend.png" width=700, height=600>
+![img12](backend.png)
 
 UI:
 
-<img src="UI.png" width=700, height=600>
+![img11](UI.png)
 
 Block Diagram:
 
-<img src="blockdiagram.png" width=700, height=600>
+![img10](blockdiagram.png)
 
 
 
