@@ -25,7 +25,7 @@ The idea to build this product stemmed from 'Buggy', a labrador who experiences 
 #### Device Functionality:
 
 As previously mentioned, the device incorporates three main functions: detecting anxiety, regulating the temperature of the pet bed, and tracking the weight of the pet. To achieve these functionalities, the device is equipped with three sensors and three actuators. An accelerometer attached to the pet's collar detects anxiety, a temperature sensor on the pet bed monitors ambient temperature, and a load cell on the pet bed detects the presence of the dog and tracks its weight. If the temperature of the bed falls below a predetermined threshold, the heating pad (actuator 1) activates, while if the temperature exceeds the threshold, the fan is activated. In the event of the dog trembling due to anxiety, data collected by the accelerometer on the pet collar triggers the servo motor (actuator 3) positioned near the bed to release calming pheromones. All this data is sent over the cloud and displayed on a dashboard in real time. 
-<img src ="Pics/simple_design.png" width =600, height=500>
+<img src ="simple_design.png" width =600, height=500>
 
 
 #### Challenges:
@@ -137,44 +137,44 @@ The system shall acquire temperature data from the environment around the pet be
 ## 4. Project Photos & Screenshots
 Prototype:
 
-<img src= "Pics/frontview.jpg" width=600, height=600>
-<img src= "Pics/sideview2.jpg" width=600, height=600>
-<img src= "Pics/sideview1.jpg" width=600, height=600>
+<img src= "frontview.jpg" width=600, height=600>
+<img src= "sideview2.jpg" width=600, height=600>
+<img src= "sideview1.jpg" width=600, height=600>
 
 PCB CASE: 
 
-<img src= "Pics/pcbincase.jpg" width=600, height=600>
-<img src= "Pics/casework.jpg" width=600, height=600>
+<img src= "pcbincase.jpg" width=600, height=600>
+<img src= "casework.jpg" width=600, height=600>
 
 PCB:
 
-<img src= "Pics/PCB.jpg" width=600, height=700>
-<img src= "Pics/PCB_rear_view.jpg" width=600, height=700>
+<img src= "PCB.jpg" width=600, height=700>
+<img src= "PCB_rear_view.jpg" width=600, height=700>
 
 Thermal Camera Image:
 
-<img src="Pics/Thermal_cam.jpeg" width=600, height=600>
+<img src="Thermal_cam.jpeg" width=600, height=600>
 
 Altium 2D Version:
 
-<img src="Pics/2d.png" width=700, height=600>
+<img src="2d.png" width=700, height=600>
 
 Altium 3D Version:
 
-<img src="Pics/3d.png" width=700, height=600>
+<img src="3d.png" width=700, height=600>
 
 
 Node-RED:
 
-<img src="Pics/backend.png" width=700, height=600>
+<img src="backend.png" width=700, height=600>
 
 UI:
 
-<img src="Pics/UI.png" width=700, height=600>
+<img src="UI.png" width=700, height=600>
 
 Block Diagram:
 
-<img src="Pics/blockdiagram.png" width=700, height=600>
+<img src="blockdiagram.png" width=700, height=600>
 
 
 
