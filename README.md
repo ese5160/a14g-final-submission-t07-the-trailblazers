@@ -47,19 +47,18 @@ As previously mentioned, the device incorporates three main functions: detecting
 4. Transitioning from the present prototype stage to the next phase, involves considering the appropriate packaging of our product and securing additional funds for further product development.
  
 #### Takeaways:
-##Technical Takeways:
+Technical Takeways:
 1. Undertaking the complete board bring-up process proved to be a novel experience, with a particularly thrilling aspect being the design of the PCB.
 2. Venturing into the realm of crafting device drivers and communication drivers presented a fresh challenge.
 3. Embracing FreeRTOS and delving into bootloader-based firmware development provided valuable insights and learning opportunities.
 4. Employing sophisticated equipment to diagnose and address software and hardware issues underscored the importance of thorough debugging methodologies in identifying root causes.
 5. Engaging in firmware development rooted in the ASF framework enriched our technical repertoire and added depth to our skill set.
 
-##Managerial Takeaways
-1. One of the key takeways from this project is effective planning. Planning prior to execution would have been a more effective method rather than the creative approach of going with the flow to ensure quality of the product. This holds good for the PCB design where we could have drawn protypes of the board and thought of the placement of components before starting to components out and then reallocating space which was a waste of time.
-2. Thoroughly going though datasheets and guidelines before starting work to understand the nuances of the sensors and actuators was a key takeaway.
-3. Troubleshooting and finding a way to solve issues especially with the PCB and keep up the "The word impossible simply doesnt exist".
-4. Time Mnagement considering other courses and the workload of ESE5160.
-
+Managerial Takeaways:
+1. Effective planning is crucial. Proactive planning before execution would have been a more effective approach than the ad-hoc "going with the flow" method, as it would have ensured better product quality. This is particularly evident in the PCB design process, where creating prototypes and considering component placement beforehand could have saved time and effort instead of having to reallocate space after placing components.
+2. Thoroughly understanding datasheets and guidelines before starting work is essential to grasp the nuances and intricacies of the sensors and actuators being used.
+3. Maintaining a problem-solving mindset and embracing the "The word impossible simply doesn't exist" attitude is vital for effective troubleshooting, especially when faced with challenges related to PCB design and implementation.
+4. Effective time management is necessary, especially when juggling multiple courses and the workload of ESE5160 simultaneously.
 
 #### Project Links:
 Node-RED link: [Here.](http://172.172.34.140:1880/#flow/34c5c4e06c53bbe4)
